@@ -1,0 +1,9 @@
+label,count_train,count_val,count_test,total_count
+Piano,836,105,104,1045
+Orchestra,753,94,95,942
+Guitar,82,10,10,102
+Wind Ensemble,58,8,7,73
+Soprano,51,6,7,64
+Tenor,31,4,4,39
+Organ,16,2,2,20
+Choir,11,1,1,13

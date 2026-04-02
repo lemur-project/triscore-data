@@ -1,0 +1,17 @@
+label,count_train,count_val,count_test,total_count
+Frédéric Chopin,694,87,87,868
+Ludwig van Beethoven,344,43,43,430
+Johannes Brahms,278,35,35,348
+Wolfgang Amadeus Mozart,149,19,18,186
+Francisco Tarrega,85,10,11,106
+Pyotr Ilyich Tchaikovsky,62,7,8,77
+Antonin Dvorak,62,8,7,77
+Clara Schumann,38,5,5,48
+Felix Mendelssohn,30,4,4,38
+Camille Saint Saens,17,2,2,21
+Robert Schumann,17,2,2,21
+Johann Sebastian Bach,16,2,2,20
+Abel Moreno,12,2,1,15
+Victor Ferrer,10,1,2,13
+Jose Perez Ballester,9,1,1,11
+Joaquin Montanes Castellano,6,1,1,8
