@@ -32,7 +32,18 @@ The dependencies are specified in the [`Dockerfile`](Dockerfile) and [`requireme
 ## Citations
 
 ```bibtex
-    YET TO BE PUBLISHED
+@article{HIDALGO2026_TRISCORE,
+  title = {TriScore: Aligning audio, symbolic scores, and sheet music images in a shared embedding space},
+  journal = {Pattern Recognition},
+  volume = {179},
+  pages = {113926},
+  year = {2026},
+  issn = {0031-3203},
+  doi = {https://doi.org/10.1016/j.patcog.2026.113926},
+  url = {https://www.sciencedirect.com/science/article/pii/S0031320326008915},
+  author = {Antonio Hidalgo-Centeno and Eliseo Fuentes-Martinez and Jorge Calvo-Zaragoza and Antonio Javier Gallego},
+  keywords = {Multimodal music classification, Cross-modal representation learning, Music Information Retrieval, Audio-score-image alignment, Benchmark dataset},
+}
 ```
 
 ## Acknowledgments
